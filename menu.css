@@ -37,9 +37,24 @@
 #specialiDishes:last-of-type {
 	padding-bottom: 10rem;
 }
-#bevandeDishes {
+
+#cremoseDishes {
 	padding-bottom: 0;
 }
-#bevandeDishes:last-of-type {
+#cremoseDishes:last-of-type {
+	padding-bottom: 10rem;
+}
+
+#focacceDishes {
+	padding-bottom: 0;
+}
+#focacceDishes:last-of-type {
+	padding-bottom: 10rem;
+}
+
+#dolciDishes {
+	padding-bottom: 0;
+}
+#dolciDishes:last-of-type {
 	padding-bottom: 10rem;
 }
